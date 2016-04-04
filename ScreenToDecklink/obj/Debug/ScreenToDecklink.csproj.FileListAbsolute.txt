@@ -1,0 +1,4 @@
+C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.Form1.resources
+C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.Properties.Resources.resources
+C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.csproj.GenerateResource.Cache
