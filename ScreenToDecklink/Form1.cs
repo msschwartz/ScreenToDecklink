@@ -1,19 +1,13 @@
-﻿using System;
-
+﻿using DeckLinkAPI;
+using System;
 using System.Collections.Generic;
-
 using System.ComponentModel;
-
 using System.Data;
-
 using System.Drawing;
-
 using System.Linq;
-
 using System.Runtime.InteropServices;
-
 using System.Text;
-
+using System.Threading;
 using System.Windows.Forms;
 
 namespace ScreenToDecklink
@@ -55,7 +49,16 @@ namespace ScreenToDecklink
             InitializeComponent();
             captureVideo();
 
+            Decklink decklink = new Decklink();
+            IDeckLinkOutput device = (IDeckLinkOutput) decklink.GetAvailableDeckLinks()[0];
+            IDeckLinkDisplayMode mode = (IDeckLinkDisplayMode) decklink.GetAvailableDisplayModes(device)[0];
 
+            DeckLinkRenderer renderer = new DeckLinkRenderer(device, mode);
+            renderer.Start();
+
+            Thread.Sleep(3000);
+
+            renderer.Stop();
         }
 
 

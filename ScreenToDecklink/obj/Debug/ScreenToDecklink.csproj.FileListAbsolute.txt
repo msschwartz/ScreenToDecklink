@@ -2,3 +2,14 @@ C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDeck
 C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.Form1.resources
 C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.Properties.Resources.resources
 C:\Users\IEUser\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.csproj.GenerateResource.Cache
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\bin\Debug\ScreenToDecklink.exe.config
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\Interop.DeckLinkAPI.dll
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.csproj.ResolveComReference.cache
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\bin\Debug\ScreenToDecklink.exe
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\bin\Debug\ScreenToDecklink.pdb
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.csprojResolveAssemblyReference.cache
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.Form1.resources
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.Properties.Resources.resources
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.csproj.GenerateResource.Cache
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.exe
+C:\Users\mschwartz\Desktop\ScreenToDecklink\ScreenToDecklink\obj\Debug\ScreenToDecklink.pdb
